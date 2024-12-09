@@ -1,2 +1,1 @@
-# Development-projects
-All development projects 
+Inventory management system
